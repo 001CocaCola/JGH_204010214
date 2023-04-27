@@ -1,15 +1,14 @@
 {
-  "posts": [
+  "info": [
     {
       "id": 1,
-      "title": "hello"
-    }
-     {
+      "title": "accusamus beatae ad facilis cum similique qui sunt",
+      "url": "https://via.placeholder.com/600/92c952",
+    },
+    {
       "id": 2,
-      "title": "hello2"
-    }
+      "title": "accusamus beatae ad facilis cum similique qui sunt",
+      "url": "https://via.placeholder.com/600/92c952",
+    }    
   ],
-  "profile": {
-    "name": "typicode"
-  }
 }
